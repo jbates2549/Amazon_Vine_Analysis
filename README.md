@@ -35,7 +35,7 @@ For vine reviews
 ![image_name](https://github.com/jbates2549/Amazon_Vine_Analysis/blob/main/percent_non_vine_reviews_5stars.PNG)
 
 
-![image_name](https://github.com/jbates2549/Amazon_Vine_Analysis/blob/main/percent_non_vine_reviews_5stars.PNG)
+![image_name](https://github.com/jbates2549/Amazon_Vine_Analysis/blob/main/summary_all_reviews.PNG)
 
 
 
